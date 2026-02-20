@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+scikit-learn==1.0.2
+numpy
+beautifulsoup4
+requests
+python-whois
+nltk
+joblib
+pandas
